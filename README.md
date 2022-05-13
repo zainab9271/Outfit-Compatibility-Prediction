@@ -1,1 +1,1 @@
-# Outfit-Recommendation-Project AI Dojo ML Bootcamp Graduation Project
+# Outfit Compatibility Prediction AI Dojo ML Bootcamp Graduation Project
