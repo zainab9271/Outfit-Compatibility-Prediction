@@ -1,4 +1,4 @@
-# Outfit Compatibility Prediction AI Dojo ML Bootcamp Graduation Project
+# Outfit Compatibility Prediction
 
 
 * Predicts the compatibility rate of a set of clothes as a proper outfit.
